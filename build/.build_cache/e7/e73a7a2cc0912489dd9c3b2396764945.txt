@@ -1,9 +1,0 @@
-{
-    errdata = "\27[01m\27[Ksrc\\Menu.cpp:\27[m\27[K In member function '\27[01m\27[Kvirtual void Menu::\27[01;32m\27[Khandle\27[m\27[K(SDL_Event&)\27[m\27[K':\
-\27[01m\27[Ksrc\\Menu.cpp:102:19:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kvariable '\27[01m\27[Krect\27[m\27[K' set but not used [\27[01;35m\27[K-Wunused-but-set-variable\27[m\27[K]\
-  102 |         SDL_FRect \27[01;35m\27[Krect\27[m\27[K = rf->rect_data;\
-      |                   \27[01;35m\27[K^~~~\27[m\27[K\
-At global scope:\
-\27[01m\27[Kcc1plus.exe:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option '\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K' may have been intended to silence earlier diagnostics\
-"
-}
