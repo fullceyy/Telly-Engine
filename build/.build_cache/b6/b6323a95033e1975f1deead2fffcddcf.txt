@@ -1,0 +1,12 @@
+{
+    errdata = "\27[01m\27[Ksrc\\Start.cpp:\27[m\27[K In member function '\27[01m\27[Kvoid Start::\27[01;32m\27[Kcreate_start\27[m\27[K()\27[m\27[K':\
+\27[01m\27[Ksrc\\Start.cpp:61:13:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kunused variable '\27[01m\27[Kidx\27[m\27[K' [\27[01;35m\27[K-Wunused-variable\27[m\27[K]\
+   61 |         int \27[01;35m\27[Kidx\27[m\27[K = rand() & DEFAULT_GRID_SIZE;\
+      |             \27[01;35m\27[K^~~\27[m\27[K\
+\27[01m\27[Ksrc\\Start.cpp:26:9:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kunused variable '\27[01m\27[Ktest\27[m\27[K' [\27[01;35m\27[K-Wunused-variable\27[m\27[K]\
+   26 |     int \27[01;35m\27[Ktest\27[m\27[K[m_Rfs.size() / 2];\
+      |         \27[01;35m\27[K^~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus.exe:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option '\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K' may have been intended to silence earlier diagnostics\
+"
+}

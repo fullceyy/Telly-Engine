@@ -1,0 +1,9 @@
+{
+    errdata = "\27[01m\27[Ksrc\\Renderer.cpp:\27[m\27[K In constructor '\27[01m\27[KRenderer::\27[01;32m\27[KRenderer\27[m\27[K()\27[m\27[K':\
+\27[01m\27[Ksrc\\Renderer.cpp:9:8:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kinit-statement in selection statements only available with '\27[01m\27[K-std=c++17\27[m\27[K' or '\27[01m\27[K-std=gnu++17\27[m\27[K' [\27[01;35m\27[K-Wc++17-extensions\27[m\27[K]\
+    9 |     if(\27[01;35m\27[Kfont\27[m\27[K = TTF_OpenFont(\"font/Roboto.ttf\", FONT_SIZE); !font)\
+      |        \27[01;35m\27[K^~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus.exe:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option '\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K' may have been intended to silence earlier diagnostics\
+"
+}

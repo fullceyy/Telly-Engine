@@ -1,0 +1,7 @@
+{
+    errdata = "\27[01m\27[Ksrc\\Menu.cpp:\27[m\27[K In constructor '\27[01m\27[KMenu::\27[01;32m\27[KMenu\27[m\27[K(SDL_Renderer*)\27[m\27[K':\
+\27[01m\27[Ksrc\\Menu.cpp:7:14:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kvariable '\27[01m\27[Krf\27[m\27[K' set but not used [\27[01;35m\27[K-Wunused-but-set-variable\27[m\27[K]\
+    7 |     for(auto \27[01;35m\27[Krf\27[m\27[K : m_Rfs)\
+      |              \27[01;35m\27[K^~\27[m\27[K\
+"
+}
